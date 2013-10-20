@@ -5,6 +5,7 @@ Note that the web design template (header, footer, color scheme) belongs to Old 
 Anyone wishing to adopt this software must alter the template to avoid violation of ODU copyright.
 
 Academic citations to this work should refer to the book chapter that describes it:
+
 Landers, R. N. & Callan, R. C. (2011). Casual social games as serious games: The psychology of gamification in undergraduate education and employee training.  In M. Ma, A. Oikonomou, & L. C. Jain (Eds.), Serious Games and Edutainment Applications (pp. 399-424). Surrey, UK: Springer. 
 
 ----------------------------------
