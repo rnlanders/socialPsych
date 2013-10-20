@@ -3,6 +3,8 @@ socialPsych
 
 socialPsych is an educational social network platform with gamified practice tests.
 
+Please note that although I am technically a professional web programmer, I am 100% self-taught.  Also, this was pretty early in my learning to code.  As a result, the code is not elegant or well-commented.  Sorry!
+
 Note that the practice test content is licensed and not included here.
 
 The functionality of this system is described in great detail here:
