@@ -1,9 +1,11 @@
 socialPsych
 ===========
 
-socialPsych is an educational social network platform with gamification elements.
+socialPsych is an educational social network platform with gamified practice tests.
 
-It is described in great detail here:
+Note that the practice test content is licensed and not included here.
+
+The functionality of this system is described in great detail here:
 Landers, R. N. & Callan, R. C. (2011). Casual social games as serious games: The psychology of gamification in undergraduate education and employee training.  In M. Ma, A. Oikonomou, & L. C. Jain (Eds.), Serious Games and Edutainment Applications (pp. 399-424). Surrey, UK: Springer. 
 
 Two summary videos on the project are available:
