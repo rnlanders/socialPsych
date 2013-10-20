@@ -12,4 +12,14 @@ Two summary videos on the project are available:
 https://vimeo.com/11500513
 https://vimeo.com/11506353
 
+To install this on your own server, you'll need to:
+1) Copy all of these files over to your server
+2) Update config.php to contain your MySQL database info
+3) Install YOURLS (http://yourls.org/) in a subdirectory called url/ referencing the three URL tables created in Step 2
+4) Update the web template to remove the copyrighted ODU header, footer, and template (i.e. change leftmenu.php and style.css)
+5) Add an /images/ subdirectory and add images into it (for the certificaiton center and main page)
+6) Install phpmailer to phpmailer/ subdirectory
+7) Add a CRON job to run cleantests_cron.php at least daily
+6) Probably something else I'm forgetting!
+
 Additional questions can be sent to Richard Landers, faculty at Old Dominion University (rnlanders@odu.edu).
